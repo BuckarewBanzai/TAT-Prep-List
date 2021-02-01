@@ -13,12 +13,13 @@
     + Fuses
     + Relays
 
-+ Bags/Storage
++ Bags
     + Left Saddle
+        + Left Top Saddle
     + Right Saddle
-    + Rear Pack
+        + Right Top Saddle
+    + Rear Pack/Back Pack
     + Front Fender Pack
-    + Roto Pack
 
 + Maintenance
     + Oil/Filter Change ✓
@@ -27,7 +28,7 @@
     + New Chain ✓
     + Valve Adjustment
     + Wheel Bearings ✓
-    + Sprockets
+    + Sprockets (Front/Rear)
     + Throttle Cable
     + Brake Cable
     + Brake Pads
@@ -44,6 +45,16 @@
 + Tools
     + Tire Spoons
     + Tire Pressure Guage 
+    + Roll Bag
+        + Metric Wrench Set
+        + Screw Driver Set
+        + Metric Hex Key
+        + Crecent Wrench
+        + Small Metric Socket Set
+    + Air Pump
+    + RTV
+    + JB Weld
+    + Zip Ties (various sizes)
 
 ## Camping
 + Jetboil
@@ -59,6 +70,8 @@
     + 3 Days of Insta Meals
     + Gatorade/Coffee
     + Breakfast/Granola Bars
++ Lighter/Matches
+
 
 ## Personal
 + First Aid
@@ -66,3 +79,4 @@
 + Riding Pants
 + Riding Jacket
 + Bear Spray
++ Boot Liners
