@@ -3,25 +3,29 @@
 ## Bike 
 + Parts
     + Spare Tubes
-    + Spare Chain/Master Link
+    + Spare Chain/Master Links (x3)
     + 2 quarts of oil
     + CDI Box
     + Brake Pads
     + Tube Patch Kit
     + Spark Plug
     + Headlight Bulb (H4)
+    + Fuses
+    + Relays
+
 + Bags
     + Left Saddle
     + Right Saddle
     + Rear Pack
     + Front Fender Pack
+
 + Maintenance
-    + Oil/Filter Chance
+    + Oil/Filter Change ✓
     + Tires/Tubes
-    + Clutch Cable
-    + New Chain
+    + Clutch Cable  ✓
+    + New Chain ✓
     + Valve Adjustment
-    + Wheel Bearings
+    + Wheel Bearings ✓
     + Sprockets
     + Throttle Cable
     + Brake Cable
@@ -31,7 +35,14 @@
     + Brake/Clutch Levers
     + Grips
     + New Seat (Seat Concepts)
+    + Skid Plate
+    + Mirrors
+    + Battery
+    + Clean Carb
+
 + Tools
+    + Tire Spoons
+    + Tire Pressure Guage 
 
 ## Camping
 + Jetboil
@@ -51,3 +62,6 @@
 ## Personal
 + First Aid
 + Swimwear
++ Riding Pants
++ Riding Jacket
++ Bear Spray
