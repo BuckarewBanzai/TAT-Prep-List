@@ -13,11 +13,12 @@
     + Fuses
     + Relays
 
-+ Bags
++ Bags/Storage
     + Left Saddle
     + Right Saddle
     + Rear Pack
     + Front Fender Pack
+    + Roto Pack
 
 + Maintenance
     + Oil/Filter Change ✓
