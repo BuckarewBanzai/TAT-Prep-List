@@ -12,6 +12,7 @@
     + Headlight Bulb (H4)
     + Fuses
     + Relays
+    + Carb Repair Kit
 
 + Bags
     + Left Saddle
