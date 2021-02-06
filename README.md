@@ -43,6 +43,7 @@
     + Mirrors
     + Battery
     + Clean Carb
+    + Spring (12.5kg)
 
 + Tools
     + Tire Spoons
