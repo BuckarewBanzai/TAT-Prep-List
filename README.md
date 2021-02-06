@@ -13,6 +13,7 @@
     + Fuses
     + Relays
     + Carb Repair Kit
+    + Brake Fluid (DOT 3)
 
 + Bags
     + Left Saddle
